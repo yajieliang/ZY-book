@@ -1,0 +1,23 @@
+{
+  "name": "ZY-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yajieliang/ZY-book.git"
+  },
+  "keywords": [],
+  "author": "yajielaing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yajieliang/ZY-book/issues"
+  },
+  "homepage": "https://github.com/yajieliang/ZY-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
